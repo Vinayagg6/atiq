@@ -1,7 +1,10 @@
 AtliQ Grands' Revenue Strategy: A Data-Driven Report
+
+
 Atliq Grands has experienced declining market share and revenue due to competition and management decisions. The project focuses on revitalizing the business by leveraging hospitality analytics to make informed data driven decisions.
 
 Facts about AtliQ Grands:
+
 ➡️AtliQ Grands is a five-star hotel chain with a presence in four top cities.
 
 ➡️Across these urban hubs, AtliQ Grands boasts a network of seven distinct properties, strategically situated to cater to diverse clientele.
@@ -20,6 +23,7 @@ dim_rooms - This table included information about room IDs and room classes. We 
 fact_aggregated_bookings - This fact table contained data related to property ID, check-in dates, room categories, successful bookings, and capacity. It served as a crucial source for calculating key metrics related to bookings and occupancy.
 
 Key Revelations:
+
 ▶Total Revenue: A staggering 1.71 billion rupees! 💰
 
 ▶Highest Revenue City: Mumbai, contributing 40% of the total revenue.
